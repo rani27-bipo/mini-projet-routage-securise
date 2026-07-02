@@ -73,7 +73,7 @@ restaurer rapidement les liens critiques.
 | Via C-E (double panne) | 230 | 40 ms | 19 |
 
 ## Contenu du repository
-- 📄 [Rapport complet (PDF)](report/Rapport-mini-projet-RO.pdf)
+- 📄 [Rapport complet (PDF)](report/Rapport-mini-projet-RO.pdf.pdf)
 - 🖧 [Simulation Cisco Packet Tracer (.pkt)](simulation/simulation projet R.O.pkt)
 
 ## Conclusion
